@@ -1,2 +1,2 @@
 # homepage
-<a href="/about.html">about</a>
+<a href="/about">about</a>
